@@ -1,0 +1,23 @@
+.bar{
+    position:sticky;
+    /* top-padding:10px; */
+    /* left:40vw; */
+    height:110px;
+    width:320px;
+    display:grid;
+    padding-top: 10px;
+    padding-left:20px;
+    grid-template-columns: 100px 100px 100px;
+    border-style: ridge;
+    border-radius: 10px;
+}
+button{
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  background-color: slategray;
+  color:white;
+  border-radius:10%;
+}
