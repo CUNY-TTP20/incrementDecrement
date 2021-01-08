@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/incrementDecrement/static/css/main.77e22872.chunk.css",
+    "main.js": "/incrementDecrement/static/js/main.9ebcc9a1.chunk.js",
+    "main.js.map": "/incrementDecrement/static/js/main.9ebcc9a1.chunk.js.map",
+    "runtime-main.js": "/incrementDecrement/static/js/runtime-main.6cacac4e.js",
+    "runtime-main.js.map": "/incrementDecrement/static/js/runtime-main.6cacac4e.js.map",
+    "static/js/2.262fdb62.chunk.js": "/incrementDecrement/static/js/2.262fdb62.chunk.js",
+    "static/js/2.262fdb62.chunk.js.map": "/incrementDecrement/static/js/2.262fdb62.chunk.js.map",
+    "index.html": "/incrementDecrement/index.html",
+    "precache-manifest.ce82eef7e02cb5bd9bec64b2ce340c3e.js": "/incrementDecrement/precache-manifest.ce82eef7e02cb5bd9bec64b2ce340c3e.js",
+    "service-worker.js": "/incrementDecrement/service-worker.js",
+    "static/css/main.77e22872.chunk.css.map": "/incrementDecrement/static/css/main.77e22872.chunk.css.map",
+    "static/js/2.262fdb62.chunk.js.LICENSE.txt": "/incrementDecrement/static/js/2.262fdb62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cacac4e.js",
+    "static/js/2.262fdb62.chunk.js",
+    "static/css/main.77e22872.chunk.css",
+    "static/js/main.9ebcc9a1.chunk.js"
+  ]
+}
